@@ -1,0 +1,25 @@
+How to build Diamond Inject:
+Build Diamond Inject is very simple. The build is done through Microsoft Visual Studio.
+
+1. Open the DiamondInject.sln
+2. Go to the Build --> Build Solution
+3. Binary files are spawning in "bin" directory.
+
+Done!
+
+How to use Diamond Inject:
+
+1. Open the diamond.exe
+2. Enter your DLL file path to DLL you want to inject
+3. Enter the Process ID (PID) where you want to inject the DLL
+	To view the PID, open the Task Manager, open the "Details" tab, and find the process you want. There is a column with the PID.
+4. Inject!
+
+It is also available to run via cmd:
+diamond.exe <DLL file path> <PID>
+
+In future versions, we will add support for new launch arguments.
+
+GitHub: https://github.com/KisushkaIDG
+Teleram: https://t.me/KisushkaGroup
+Russian Telegram: https://t.me/KisushkaRUS
