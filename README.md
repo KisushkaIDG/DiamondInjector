@@ -6,4 +6,5 @@ Telegram: https://t.me/KisushkaGroup
 Russian Telegram: https://t.me/KisushkaRUS
 
 Version 1.0
-Released on 2026-04-02
+Released on 2026-04-02 v1.0
+Released on 2026-04-05 v1.1
